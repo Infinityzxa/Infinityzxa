@@ -6,17 +6,17 @@
 ---
 
 
-<p align="left">
-  <img src="https://api.iconify.design/simple-icons:luau.svg" alt="Luau" width="40" height="40"/>
-  <img src="https://api.iconify.design/simple-icons:lua.svg" alt="Lua" width="40" height="40"/>
-  <img src="https://api.iconify.design/simple-icons:c.svg" alt="C" width="40" height="40"/>
-  <img src="https://api.iconify.design/simple-icons:csharp.svg" alt="C#" width="40" height="40"/>
-  <img src="https://api.iconify.design/simple-icons:java.svg" alt="Java" width="40" height="40"/>
-  <img src="https://api.iconify.design/simple-icons:javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://api.iconify.design/simple-icons:html5.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://api.iconify.design/simple-icons:css3.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://api.iconify.design/simple-icons:git.svg" alt="Git" width="40" height="40"/>
-  <img src="https://api.iconify.design/simple-icons:python.svg" alt="Python" width="40" height="40"/>
-</p>
+## 🚀 Tecnologias que uso
 
----
+<p align="left">
+  <img src="https://api.iconify.design/devicon:luau.svg" alt="Luau" width="40" height="40"/>
+  <img src="https://api.iconify.design/devicon:lua-original.svg" alt="Lua" width="40" height="40"/>
+  <img src="https://api.iconify.design/devicon:c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://api.iconify.design/devicon:csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://api.iconify.design/devicon:java-plain.svg" alt="Java" width="40" height="40"/>
+  <img src="https://api.iconify.design/devicon:javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://api.iconify.design/devicon:html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://api.iconify.design/devicon:css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://api.iconify.design/devicon:git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://api.iconify.design/devicon:python-original.svg" alt="Python" width="40" height="40"/>
+</p>
