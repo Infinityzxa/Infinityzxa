@@ -20,5 +20,4 @@
   <img src="https://api.iconify.design/simple-icons:git.svg?color=%23F05032" alt="Git" width="40" height="40"/>
   <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" alt="Python" width="40" height="40"/>
 </p>
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white);
 
