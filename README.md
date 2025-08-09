@@ -42,6 +42,6 @@
   <img src="./images/robloxstudio.svg" width="30" height="30" alt="Roblox Studio"/>
 
 - **MySQL Workbench**  
-  <img src="./images/mysql.svgcolor=%230077B8" width="30" height="30" alt="MySQL Workbench"/>
+  <img src="./images/mysql.svg" width="30" height="30" alt="MySQL Workbench"/>
 
 ---
