@@ -35,13 +35,4 @@
 - **IntelliJ IDEA**  
   <img src="https://api.iconify.design/simple-icons:intellijidea.svg?color=%23FF6B00" width="30" height="30" alt="IntelliJ IDEA"/>
 
-- **NetBeans**  
-  <img src="./images/netbeans.svg" width="30" height="30" alt="NetBeans"/>
 
-- **Roblox Studio**  
-  <img src="./images/robloxstudio.svg" width="30" height="30" alt="Roblox Studio"/>
-
-- **MySQL Workbench**  
-  <img src="./images/mysql.svg" width="30" height="30" alt="MySQL Workbench"/>
-
----
