@@ -43,11 +43,5 @@ Sou um desenvolvedor apaixonado por criar sistemas, jogos e soluções criativas
 
 ---
 
-### 📊 Minhas Estatísticas
 
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
